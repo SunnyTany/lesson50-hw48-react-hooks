@@ -2,9 +2,9 @@
 
 ## Мемоізація:
 
-- мемоізація значення функції виконана в компоненту [OptimizedComputeComponent]([https://github.com/vitejs](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useMemo/OptimizedComponent/index.tsx)) за допомогою хука useMemo;
+- мемоізація значення функції виконана в компоненту [OptimizedComputeComponent]([https://github.com/vitejs](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useMemo/OptimizedComponent/index.tsx) за допомогою хука useMemo;
 - мемоізація компонентів [MemoizedCounter та MemoizedSetText](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-memo/index.tsx) виконана за допомогою memo;
-- мемоізація функції виконана в компоненту [OptimizedComponent]([https://github.com/](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useCallback/OptimizedComponent/index.tsx)) за допомогою хука useCallback
+- мемоізація функції виконана в компоненту [OptimizedComponent]([https://github.com/](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useCallback/OptimizedComponent/index.tsx) за допомогою хука useCallback
 
 - також використані в додатку такі хуки:
   - [useMatch](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useMatch/Navigation/index.tsx) для перевірки активної лінки;
