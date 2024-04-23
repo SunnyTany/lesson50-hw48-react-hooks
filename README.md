@@ -10,3 +10,4 @@
   - [useMatch](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useMatch/Navigation/index.tsx) для перевірки активної лінки;
   - [useReducer](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useReducer/Counter/index.tsx) для складного управління станом компонента;
   - [useSearchParams](https://github.com/SunnyTany/lesson50-hw48-react-hooks/blob/main/src/components/use-useSearchParams/SearchParamsComponent/index.tsx) для считування параментрів url.
+[деплой проекту](https://lesson50-hw48-react-hooks.vercel.app/)
